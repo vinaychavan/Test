@@ -1,0 +1,15 @@
+git commands:
+
+git clone git@github.com:adsummos/bi.git
+
+git checkout --track -b sprint_k6 origin/sprint_k6
+
+git diff filename
+
+git add filename
+
+git commit filename
+
+git push
+
+git pull
